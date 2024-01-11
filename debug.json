@@ -5,6 +5,9 @@
     { "type": "Feature", "properties": { "id": "ak16994521", "mag": 2.3, "time": 1507425650893, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [35.2131, 31.7716, 0.0] } },
     { "type": "Feature", "properties": { "id": "ak16994519", "mag": 1.7, "time": 1507425289659, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [34.8808, 32.4224, 105.5] } },
     { "type": "Feature", "properties": { "id": "ak16994517", "mag": 1.6, "time": 1507424832518, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [35.2107, 31.0461, 0.0] } },
-    { "type": "Feature", "properties": { "id": "hv61900626", "mag": 2.91, "time": 1504833891990, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [34.785, 32.085, 2.609] } }
+    { "type": "Feature", "properties": { "id": "hv61900626", "mag": 2.91, "time": 1504833891990, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [34.785, 32.085, 2.609] } },
+    { "type": "Feature", "properties": { "id": "israel_point1", "mag": 1.2, "time": 1512345678901, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [35.205, 31.778, 10.0] } },
+    { "type": "Feature", "properties": { "id": "israel_point2", "mag": 1.8, "time": 1512345678902, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [34.897, 32.410, 50.0] } },
+    { "type": "Feature", "properties": { "id": "israel_point3", "mag": 1.5, "time": 1512345678903, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [35.215, 31.065, 15.0] } }
   ]
 }
